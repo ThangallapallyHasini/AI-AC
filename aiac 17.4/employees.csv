@@ -1,0 +1,11 @@
+employee_id,name,salary,department,job_role,joining_date,department_encoded,job_role_encoded
+1,John Doe,50000.0,HR,Manager,2020-10-05,1,4
+2,Jane Smith,56857.142857142855,HR,Recruiter,2020-10-05,1,5
+3,Robert Brown,62000.0,IT,Developer,2020-10-05,2,2
+4,Linda White,55000.0,HR,Analyst,2020-10-05,1,1
+5,Michael Green,48000.0,Finance,Accountant,2020-10-05,0,0
+6,Emily Davis,56857.142857142855,IT,Developer,2020-10-05,2,2
+7,Daniel Lee,60000.0,Finance,Analyst,2020-10-05,0,1
+8,Olivia Harris,70000.0,Marketing,Executive,2020-10-05,3,3
+9,Sophia Johnson,56857.142857142855,Marketing,Executive,2022-05-02,3,3
+10,William King,53000.0,IT,Developer,2020-10-05,2,2

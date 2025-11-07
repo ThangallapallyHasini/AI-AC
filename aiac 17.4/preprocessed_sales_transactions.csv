@@ -1,0 +1,4 @@
+transaction_id,customer_id,transaction_date,transaction_amount,product,Month-Year,normalized_amount
+1,101,2021-01-15,250.5,Electronics,Jan-2021,0.0
+13,113,2022-01-10,300.0,Clothing,Jan-2022,0.09008189262966326
+16,116,2022-04-12,800.0,Furniture,Apr-2022,1.0

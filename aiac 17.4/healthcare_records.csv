@@ -1,0 +1,11 @@
+patient_id,name,age,gender,height_cm,weight_kg,blood_pressure,heart_rate,diagnosis
+1,John Doe,45,M,175,80,120,72,Diabetes
+2,Jane Smith,38,Female,160,65,,85,Hypertension
+3,Robert Brown,50,male,182,90,135,,
+4,Emily Davis,29,F,170,70,110,65,Healthy
+5,Michael Lee,60,Male,165,75,,78,Heart Disease
+6,Linda White,52,F,155,68,140,88,Hypertension
+7,David Johnson,47,m,180,82,118,,
+8,Sophia Wilson,34,female,162,60,115,70,Healthy
+9,Chris Taylor,55,M,170,85,125,80,Diabetes
+10,Olivia Harris,40,F,158,58,130,,Healthy
